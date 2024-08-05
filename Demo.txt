@@ -1,1 +1,1 @@
-Git Demo Demo2
+Git Demo
